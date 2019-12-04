@@ -9,5 +9,5 @@ npm install
 Para probar la applicación
 
 ```
-node app Quito
+node app -n Quito
 ```
